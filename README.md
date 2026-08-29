@@ -22,7 +22,7 @@ It also displays whether they are banned or verified.
     ```shell
     python main.py -u 1
     ```
-Where 1 is target`s UserID
+    Where 1 is target`s UserID
 
 ### AI Usage
 No AI was used to code this project.
