@@ -7,8 +7,9 @@ This tool prints key Roblox user details right into your terminal:
 - Description
 
 It also displays whether they are banned or verified.
-Usage:
+### Tool usage
 0. I prefer to create a venv (virtual enviroment) for each project:
+
     ```shell
     python -m venv venv
     ```
