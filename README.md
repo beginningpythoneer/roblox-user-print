@@ -1,4 +1,5 @@
 # Roblox User Print
+![demo](raw.githubusercontent.com/beginningpythoneer/roblox-user-print/refs/heads/main/demo1.png)
 This tool prints key Roblox user details right into your terminal:
 - Display name
 - Username
@@ -8,18 +9,18 @@ This tool prints key Roblox user details right into your terminal:
 It also displays whether they are banned or verified.
 Usage:
 0. I prefer to create a venv (virtual enviroment) for each project:
-```shell
-python -m venv venv
-```
+    ```shell
+    python -m venv venv
+    ```
 Activate it with the correct script for your OS (Windows/Linux) and shell (bash/fish)
 1. Install the requirements:
-```shell
-pip install -m requirements.txt
-```
+    ```shell
+    pip install -m requirements.txt
+    ```
 2. Launch it!
-```shell
-python main.py -u 1
-```
+    ```shell
+    python main.py -u 1
+    ```
 Where 1 is target`s UserID
 
 ### AI Usage
