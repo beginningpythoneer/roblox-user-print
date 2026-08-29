@@ -25,4 +25,4 @@ It also displays whether they are banned or verified.
     Where 1 is target`s UserID
 
 ### AI Usage
-AI Was used to clean up the code (catching specific exceptions, dataclasses). Main logic, the API interact part and everything else were writted by me with the help of Google and StackOverflow.
+AI Was used to clean up the code (catching specific exceptions, dataclasses). Main logic, the API interact part and everything else was writted by me with the help of Google and StackOverflow.
