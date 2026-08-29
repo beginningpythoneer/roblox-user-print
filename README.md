@@ -13,7 +13,7 @@ It also displays whether they are banned or verified.
     ```shell
     python -m venv venv
     ```
-Activate it with the correct script for your OS (Windows/Linux) and shell (bash/fish)
+    Activate it with the correct script for your OS (Windows/Linux) and shell (bash/fish)
 1. Install the requirements:
     ```shell
     pip install -m requirements.txt
