@@ -16,7 +16,7 @@ It also displays whether they are banned or verified.
     Activate it with the correct script for your OS (Windows/Linux) and shell (bash/fish)
 1. Install the requirements:
     ```shell
-    pip install -m requirements.txt
+    pip install -r requirements.txt
     ```
 2. Launch it!
     ```shell
@@ -25,4 +25,4 @@ It also displays whether they are banned or verified.
     Where 1 is target`s UserID
 
 ### AI Usage
-No AI was used to code this project.
+AI Was used to clean up the code (catching specific exceptions, dataclasses). Main logic, the API interact part and everything else were writted by me with the help of Google and StackOverflow.
